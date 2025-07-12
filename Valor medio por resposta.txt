@@ -1,0 +1,26 @@
+137 - 100%
+
+Clareza
+
+Manual	3,5 – 4,2
+Gerada por IA 2,8 – 3,6
+
+Organização
+
+Manual	3,6 – 4,3
+Gerada por IA	3,0 – 3,8
+
+Cobertura
+
+Manual	3,5 – 4,2
+Gerada por IA	2,7 – 3,5
+
+Velocidade
+
+Manual	2,0 – 3,0
+Gerada por IA	4,2 – 4,8
+
+Confiabilidade
+
+Manual	3,7 – 4,4
+Gerada por IA	2,6 – 3,5
