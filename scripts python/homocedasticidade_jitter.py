@@ -55,7 +55,7 @@ plt.scatter(valores_jittered[len(usa_ia):], residuos_jittered[len(usa_ia):],
             color="blue", alpha=0.5, label="Manual")
 
 plt.axhline(0, color="gray", linestyle="--")
-plt.title("Gráfico de Homocedasticidade com Jitter (X e Y)")
+plt.title("Gráfico de Homocedasticidade (X e Y)")
 plt.xlabel("Valor observado (qualidade percebida)")
 plt.ylabel("Resíduo (diferença para a média do grupo)")
 plt.legend()
