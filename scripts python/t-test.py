@@ -18,3 +18,4 @@ t_stat, p_value = ttest_ind_from_stats(
 
 print("Estatistica t:", round(t_stat, 4))
 print("Valor-p:", round(p_value, 4))
+print("Valor-p:", "{:.2e}".format(p_value))
